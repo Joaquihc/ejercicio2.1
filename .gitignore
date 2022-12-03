@@ -4,8 +4,4 @@
 *.json
 /[Ll]ibrary/
 /[Tt]emp/
-/[Aa]rtifact/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+
